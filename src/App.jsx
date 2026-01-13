@@ -1,7 +1,7 @@
 import Home from './pages/HomePage'
 import { Routes, Route } from 'react-router-dom'
 import './App.css'
-import CheckoutPage from './pages/CheckoutPage'
+import CheckoutPage from './pages/checkout/CheckoutPage'
 import OrdersPage from './pages/OrdersPage'
 import TrackingPage from './pages/TrackingPage'
 
