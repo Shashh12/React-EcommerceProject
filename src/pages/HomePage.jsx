@@ -4,7 +4,6 @@ import { useEffect, useState } from "react"
 import "./HomePage.css"
 import Header from "../components/Header"
 import CheckmarkIcon from '../assets/images/icons/checkmark.png';
-import products from "../../starting-code/data/products";
 
 
 function HomePage() {
